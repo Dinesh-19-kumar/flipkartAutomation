@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-15T05:27:53 IST" name="Suite" finished-at="2024-04-15T05:29:14 IST" duration-ms="81187">
+    <groups>
+    </groups>
+    <test started-at="2024-04-15T05:27:53 IST" name="Test" finished-at="2024-04-15T05:29:14 IST" duration-ms="81187">
+      <class name="test.NewTest001">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:27:53 IST" name="beforeTest" finished-at="2024-04-15T05:27:54 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:27:54 IST" name="beforeMethod" finished-at="2024-04-15T05:28:08 IST" duration-ms="13878" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.NewTest001.MobileTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MobileTest()[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:08 IST" name="MobileTest" finished-at="2024-04-15T05:28:45 IST" duration-ms="36805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:45 IST" name="afterMethod" finished-at="2024-04-15T05:28:45 IST" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MobileTest status=SUCCESS method=NewTest001.MobileTest()[pri:0, instance:test.NewTest001@3590fc5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:45 IST" name="beforeMethod" finished-at="2024-04-15T05:28:50 IST" duration-ms="5191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.NewTest001.TotalCountofTv()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TotalCountofTv()[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:50 IST" name="TotalCountofTv" finished-at="2024-04-15T05:28:57 IST" duration-ms="6902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalCountofTv -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:58 IST" name="afterMethod" finished-at="2024-04-15T05:28:58 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TotalCountofTv status=SUCCESS method=NewTest001.TotalCountofTv()[pri:0, instance:test.NewTest001@3590fc5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:28:58 IST" name="beforeMethod" finished-at="2024-04-15T05:29:02 IST" duration-ms="4119" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.NewTest001.TvNameWithCount()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TvNameWithCount()[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:29:02 IST" name="TvNameWithCount" finished-at="2024-04-15T05:29:12 IST" duration-ms="9955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TvNameWithCount -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:29:12 IST" name="afterMethod" finished-at="2024-04-15T05:29:12 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TvNameWithCount status=SUCCESS method=NewTest001.TvNameWithCount()[pri:0, instance:test.NewTest001@3590fc5b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.NewTest001@3590fc5b]" started-at="2024-04-15T05:29:12 IST" name="afterTest" finished-at="2024-04-15T05:29:14 IST" duration-ms="2445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.NewTest001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
